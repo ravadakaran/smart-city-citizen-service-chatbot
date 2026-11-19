@@ -1,0 +1,51 @@
+[
+  {
+    "doc_title": "Municipal Property Tax & Assessment Act 2025",
+    "department": "PERMITS_TAX",
+    "section": "Section 42(1) - Senior Citizen & Early-Bird Rebates",
+    "page": 18,
+    "text": "Residential property owners aged 60 years and above occupying self-owned premises are eligible for a 15% annual property tax rebate upon submitting age proof and Aadhaar-linked property assessment ID. Additionally, all taxpayers settling full annual dues on or before April 30 receive a 5% early-bird prompt payment discount."
+  },
+  {
+    "doc_title": "Municipal Property Tax & Assessment Act 2025",
+    "department": "PERMITS_TAX",
+    "section": "Section 48(3) - Late Payment Penalty & Digital Receipt",
+    "page": 22,
+    "text": "Property tax payments made after the half-yearly due dates (September 30 and March 31) attract simple interest at 1.5% per month on the unpaid principal balance. Instant digitally signed receipts are generated upon UPI, net-banking, or municipal facilitation center settlement."
+  },
+  {
+    "doc_title": "Urban Trade & Commercial Licensing Bylaws 2025",
+    "department": "PERMITS_TAX",
+    "section": "Section 12 - Micro & Retail Trade License Fees",
+    "page": 9,
+    "text": "Retail establishments up to 500 sq. ft. require a Category-C Municipal Trade License with an annual fee of INR 1,500. Required documents include valid property tax receipt, rental/lease agreement or ownership deed, FSSAI registration (for food outlets), and fire safety self-declaration. Applications are processed within 7 working days."
+  },
+  {
+    "doc_title": "Citizen Service Charter & 311 SLA Standards 2026",
+    "department": "ROADS",
+    "section": "Schedule II - Road Pothole & Streetlight Restoration SLAs",
+    "page": 5,
+    "text": "Under the Smart City Citizen Service Charter, arterial road potholes classified as HIGH severity must be cold-patched or resurfaced within 24 hours of ticket verification. Non-functional LED streetlights must be restored within 48 hours, while open manholes or collapsed culverts carry a mandatory 4-hour emergency barricade and repair SLA."
+  },
+  {
+    "doc_title": "Solid Waste Management & Sanitation Bylaws 2025",
+    "department": "WASTE",
+    "section": "Rule 14 - Door-to-Door Segregation & Bulk Waste",
+    "page": 11,
+    "text": "Households and commercial establishments must segregate wet biodegradable waste (green bin) and dry recyclable waste (blue bin) at source. Missed garbage collection complaints logged before 11:00 AM are cleared the same day by 5:00 PM. Illegal dumping of construction debris on public roads incurs a spot fine of INR 5,000."
+  },
+  {
+    "doc_title": "Metropolitan Water Supply & Sewerage Charter 2025",
+    "department": "WATER",
+    "section": "Clause 19 - Domestic Connection & Pipeline Leak Response",
+    "page": 14,
+    "text": "New domestic water supply connections require a one-time road-cutting and meter installation fee of INR 3,200 for a 15mm ferrule connection. Major trunk pipeline bursts and sewage overflow incidents carry a 12-hour containment and restoration SLA, with emergency water tankers dispatched free of charge to affected wards."
+  },
+  {
+    "doc_title": "Smart City Public Transit & Mobility Pass Guidelines 2026",
+    "department": "TRANSIT",
+    "section": "Section 7 - Unified Smart Mobility Card & Student Concessions",
+    "page": 4,
+    "text": "The One-City Smart Mobility Card provides seamless tap-and-go fare integration across municipal electric buses and metro feeder shuttles with a 10% flat fare discount. Full-time students enrolled in accredited universities receive a 50% monthly pass concession upon institutional ID verification."
+  }
+]
